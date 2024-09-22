@@ -352,7 +352,7 @@ h1 {
 }
 
 /* Adding hover effects for error container image */
-/* .errorContainer img:hover {
+.errorContainer img:hover {
     transform: rotate(10deg) scale(1.05); 
     transition: transform 0.3s ease;
-} */
+}
