@@ -356,3 +356,12 @@ h1 {
     transform: rotate(10deg) scale(1.05); 
     transition: transform 0.3s ease;
 }
+.footer {
+    position: fixed;
+    bottom: 10px;
+    right: 20px;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 14px;
+    color: #555;
+  }
+  
